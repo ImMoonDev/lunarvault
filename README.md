@@ -1,16 +1,16 @@
 # Disclaimer  
 
 ## **1. Use at Your Own Risk**  
-This tool is provided "as is" without any warranties, express or implied. The developers are not responsible for any data loss, corruption, or unauthorized access resulting from its use.  
+This tool is provided "as is" without any warranties, express or implied. The developer is not responsible for any data loss, corruption, or unauthorized access resulting from its use.  
 
 ## **2. No Liability**  
-We disclaim any liability for damages, including but not limited to data breaches, malware infections, or legal issues arising from file uploads or downloads. Users are solely responsible for the content they share and distribute.  
+I disclaim any liability for damages, including but not limited to data breaches, malware infections, or legal issues arising from file uploads or downloads. Users are solely responsible for the content they share and distribute.  
 
 ## **3. Security & Compliance**  
-Users must ensure that they do not upload or share any illegal, copyrighted, or malicious content. Any misuse of this tool may result in access restrictions or legal consequences.  
+Users must ensure that they do not upload or share any illegal, copyrighted, or malicious content. Any misuse of this tool may result in legal consequences.  
 
 ## **4. No Guarantee of Availability**  
-This service may be modified, suspended, or discontinued at any time without prior notice. We do not guarantee file storage, uptime, or accessibility.  
+This service may be modified, suspended, or discontinued at any time without prior notice.
 
 ## **5. Third-Party Risks**  
 If this tool interacts with third-party services, we do not assume responsibility for their policies, security, or data handling practices.  
